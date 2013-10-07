@@ -1,8 +1,10 @@
+LISP Compiler - GMIN 108 semester project (UM2) - 2012
+
 (load "run.lisp")
 charge les fichiers lisp2li, evalli, litovm, makevm
-la vm est créée par défaut avec le nom 'vm
+la vm est crï¿½ï¿½e par dï¿½faut avec le nom 'vm
 
-expr est le code en lisp à traiter
+expr est le code en lisp ï¿½ traiter
 
 lisp2li :
 (lisp2li expr ())
